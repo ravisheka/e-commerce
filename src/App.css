@@ -1,0 +1,70 @@
+.topBarWrapper {
+  width: 100%;
+  display: inline-block;
+}
+
+.topBarWrapper {
+  text-align: center;
+  background: rgb(238, 238, 238);
+}
+
+.topBar {
+  max-width: 1170px;
+  font-size: 10px;
+  font-weight: 500;
+  padding: 8px 0px 6px;
+  margin: 0px auto;
+}
+
+.topBar, .topBarWrapper {
+  width: 100%;
+  display: inline-block;
+}
+.pull-left {
+  float: left !important;
+}
+.headerLinks {
+  color: rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+  margin: 8px;
+}
+
+a, a:focus, a:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+a {
+  font-size: 100%;
+  vertical-align: baseline;
+  margin: 0px;
+  padding: 0px;
+  background: transparent;
+  outline: none;
+}
+.pull-right {
+  float: right !important;
+}
+a {
+  color: rgb(51, 122, 183);
+  text-decoration: none;
+}
+
+a {
+  background-color: transparent;
+}
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+* {
+}
+user agent stylesheet
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+  text-decoration: underline;
+}
